@@ -54,3 +54,8 @@ namespace NetGDI_Test
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Versions
+```
+1.0.1: Added Static NGDISettings module with extra 2 settings (interval, enabled)
+```
